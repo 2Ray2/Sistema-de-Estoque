@@ -14,9 +14,9 @@ O desenvolvimento do sistema está dividido em três áreas principais: **Dados*
 * [x] Definição das cardinalidades
 * [x] Definição das chaves primárias e estrangeiras
 * [x] Construção do modelo lógico
-* [ ] Criação do banco de dados SQL
-* [ ] Criação das tabelas
-* [ ] Inserção de dados para testes
+* [x] Criação do banco de dados SQL
+* [x] Criação das tabelas
+* [x] Inserção de dados para testes
 
 ### 🖥️ Interface
 
