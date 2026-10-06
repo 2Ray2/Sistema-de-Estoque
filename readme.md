@@ -22,14 +22,14 @@ O desenvolvimento do sistema está dividido em três áreas principais: **Dados*
 
 > Desenvolvimento da interface gráfica e das telas utilizadas pelo usuário.
 
-* [ ] Definição das telas necessárias
-* [ ] Estrutura inicial da janela
-* [ ] Tela de produtos
-* [ ] Tela de fornecedores
-* [ ] Tela de movimentações
-* [ ] Tela de consulta do estoque
-* [ ] Tela de produtos com estoque baixo
-* [ ] Refinamento da interface
+* [x] Definição das telas necessárias
+* [x] Estrutura inicial da janela
+* [x] Tela de produtos
+* [x] Tela de fornecedores
+* [x] Tela de movimentações
+* [x] Tela de consulta do estoque
+* [x] Tela de produtos com estoque baixo
+* [x] Refinamento da interface
 
 ### 🔌 Conexão
 
@@ -48,4 +48,4 @@ O desenvolvimento do sistema está dividido em três áreas principais: **Dados*
 
 ### 📌 Status
 
-**Etapa atual:** 🗄️ Dados — Modelagem concluída
+**Etapa atual:** 🗄️ Conexão
